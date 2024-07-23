@@ -8,7 +8,7 @@ Overview
     This challenge was designed to create a neural network to predict the success of funding applicants to the fictional group "Alphabet Soup".
     In simple terms, this machine learning program should learn from the supplied data and be able to predict whether a funding applicant may be successful in the future.
 
-4.2. Results
+Results
 
     Data Preprocessing:
         Target: IS_SUCCESSFUL
@@ -26,7 +26,7 @@ Overview
         and different activation functions with extra layers were trialed. None of these differences changed the outcome
         of the KerasTuner results, with generally the highest accuracy rating achieved being %72-73.
 
-4.3. Summary
+Summary
 
     Overall Results: The neural network seems to be underperforming with this data. 
     Recommendation: The author of this ReadMe has few recommendations that appear useful.
